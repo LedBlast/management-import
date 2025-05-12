@@ -1,0 +1,8 @@
+streamlit
+flask-login
+flask-wtf
+matplotlib
+numpy
+pandas
+pillow
+psycopg2-binary
